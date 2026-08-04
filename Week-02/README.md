@@ -17,9 +17,9 @@
 ## 💻 Programs
 
 - Calculator
-- Even or Odd
 - Largest Number
 - Grade Calculator
 - Voting Eligibility
+- Even / Odd
 - Positive / Negative
-- Simple Interest Calculator
+- Simple Interest
